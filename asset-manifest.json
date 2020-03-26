@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/chat/static/js/main.a6632bdc.chunk.js",
+    "main.js.map": "/chat/static/js/main.a6632bdc.chunk.js.map",
+    "runtime-main.js": "/chat/static/js/runtime-main.7299832f.js",
+    "runtime-main.js.map": "/chat/static/js/runtime-main.7299832f.js.map",
+    "static/js/2.2ac982cb.chunk.js": "/chat/static/js/2.2ac982cb.chunk.js",
+    "static/js/2.2ac982cb.chunk.js.map": "/chat/static/js/2.2ac982cb.chunk.js.map",
+    "index.html": "/chat/index.html",
+    "precache-manifest.b08af8f022edf830641726e80fa9b74a.js": "/chat/precache-manifest.b08af8f022edf830641726e80fa9b74a.js",
+    "service-worker.js": "/chat/service-worker.js",
+    "static/js/2.2ac982cb.chunk.js.LICENSE.txt": "/chat/static/js/2.2ac982cb.chunk.js.LICENSE.txt",
+    "static/media/mazep.jpg": "/chat/static/media/mazep.96a1a830.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7299832f.js",
+    "static/js/2.2ac982cb.chunk.js",
+    "static/js/main.a6632bdc.chunk.js"
+  ]
+}
